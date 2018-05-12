@@ -1,0 +1,28 @@
+_repo: Descobrimentos-dos-Portuguezes-nos-Seculos-XV-e-XVI_27992
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Sori, A. F. Marx de
+    aliases:
+    - Sori, Antonio Filipe Marx de
+    - Sori, António Filipe Marx de
+    gutenberg_agent_id: '33062'
+    url: http://www.gutenberg.org/2009/agents/33062
+description: ''
+gutenberg_bookshelf: PT Navegações e Explorações
+gutenberg_issued: '2009-02-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27992'
+language: pt
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Discoveries in geography -- Portuguese'
+- !lcc 'G'
+title: Descobrimentos dos Portuguezes nos Seculos XV e XVI
+url: http://www.gutenberg.org/ebooks/27992
